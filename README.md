@@ -4,7 +4,7 @@ In this repository i completed the tasks that i got in the Machine Learning inte
 
 TASK : 1
 
-House Price Prediction :/Users/apple/Documents/HousePredictionProject
+House Price Prediction : https://github.com/Mahendraydv/Bharat-Intern___ML/blob/main/Task1-HousePricePridection/Data/Housing.csv
 
 "Machine Learning model to predict house price using linear regression only Jupyter notebook code.."
 
@@ -12,7 +12,7 @@ Dataset :
 
 TASK : 2
 
-Wine Quality Prediction :
+Wine Quality Prediction : https://github.com/Mahendraydv/Bharat-Intern___ML/blob/main/Task2-WinePricePrediction/Data/winequality.csv
 
 "Machine Learning model to predict the quality of wine using linear regression only Jupyter notebook code."
 
