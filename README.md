@@ -4,7 +4,7 @@ In this repository i completed the tasks that i got in the Machine Learning inte
 
 TASK : 1
 
-House Price Prediction :/content/Housing.csv
+House Price Prediction :/Users/apple/Documents/HousePredictionProject
 
 "Machine Learning model to predict house price using linear regression only Jupyter notebook code.."
 
